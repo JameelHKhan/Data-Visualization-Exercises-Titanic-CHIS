@@ -1,4 +1,4 @@
-# 1 - Check the structure of titanic
+# 1 - Checking the structure of titanic
 str(titanic)
 
 # 2 - Use ggplot() to plot the distribution of sexes within classes of the ship
